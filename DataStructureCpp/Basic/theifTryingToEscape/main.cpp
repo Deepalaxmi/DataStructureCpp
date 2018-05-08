@@ -58,7 +58,7 @@ int main(int argc, const char * argv[]) {
             cin >> arr[j];
             
         }
-        cout << jumps(arr, n, x, y) <<"\n";        
+        cout << jumps(arr, n, x, y) <<"\n";
     }
     return 0;
 }
