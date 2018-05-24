@@ -24,6 +24,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>mergeSort2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>mergedKSorted.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -32,7 +37,7 @@
 		<key>mergesort.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>6</integer>
 		</dict>
 		<key>selectionSort.xcscheme</key>
 		<dict>
@@ -42,7 +47,7 @@
 		<key>selectionSort2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>7</integer>
 		</dict>
 		<key>theifTryingToEscape.xcscheme</key>
 		<dict>
